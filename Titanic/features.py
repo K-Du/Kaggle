@@ -1,4 +1,4 @@
-try:  
+try:
     from sklearn.model_selection import train_test_split
 except:
     from sklearn.cross_validation import train_test_split
